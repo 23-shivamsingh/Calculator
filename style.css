@@ -8,7 +8,7 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-color: #D2B48C);
+    background-color: #D2B48C;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -45,4 +45,8 @@ form .screen input{
    flex: 1;
    font-size: 48px;
    box-shadow: none;
+}
+
+form input.equal{
+    width: 155px;
 }
