@@ -6,4 +6,5 @@ Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and
 Responsive Design: Works seamlessly on various devices and screen sizes.
 Clear & Delete Functions: Includes functionality to clear the entire input or delete the last entered character.
 Real-time Evaluation: Displays results instantly when the equal button (=) is clicked.
- https://23-shivamsingh.github.io/Calculator/
+[ https://23-shivamsingh.github.io/Calculator/ ]
+
